@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FitpeoAssignment</string>
+    <string name="title">Title</string>
+    <string name="msg_no_internet_network">No Internet</string>
+    <string name="msg_server_error">Server Error</string>
+    <string name="msg_something_went_wrong">Something went wrong</string>
+    <string name="msg_no_records">No data found</string>
+    <string name="msg_unknown">Unknown Error</string>
+</resources>
